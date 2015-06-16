@@ -7,4 +7,5 @@
     <string name="aarthy">Aarthy</string>
     <string name="day">Today, Feb 23</string>
     <string name="cloudy">Cloudy</string>
+    <string name="title_activity_detail">DetailActivity</string>
 </resources>
